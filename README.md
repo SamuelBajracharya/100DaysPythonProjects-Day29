@@ -22,5 +22,5 @@ This is a simple Python GUI application built using Tkinter. It allows a user to
 - Tkinter (comes pre-installed with Python)
 
 ## Author
-Your Name
+Samuel Bajracharya
 
